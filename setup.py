@@ -1,6 +1,6 @@
 from setuptools import setup
 REQUIRES = [
-    'requests',
+    'records',
     'structlog',
     'curlify',
     'allure-pytest'
